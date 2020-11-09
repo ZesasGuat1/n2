@@ -1,0 +1,4 @@
+pip é um sistema de gerenciamento de pacotes padrão de facto usado para instalar e gerenciar pacotes de software escritos em Python. 
+Muitos pacotes podem ser encontrados na fonte padrão para pacotes e suas dependências - Python Package Index (PyPI).[3]
+A maioria das distribuições do Python vem com o pip pré-instalado. 
+O Python 2.7.9 e posteriores (na série python2) e o Python 3.4 e posteriores incluem o pip (pip3 para Python 3), por padrão.
